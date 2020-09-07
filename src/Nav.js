@@ -7,7 +7,7 @@ function Nav() {
     useEffect(() => {
         window.addEventListener("scroll", () => {
             if (window.scrollY > 100) {
-                //handleShow(true);
+                handleShow(true);
             } else handleShow(false);
         });
         return () => {
@@ -19,7 +19,7 @@ function Nav() {
         <div className={`nav ${show && "nav_black"}`}>
             <img
             className="nav_logo"
-            src="image/netflix.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1597px-Netflix_2015_logo.svg.png"
             alt="Netflix Logo"
             />
             
