@@ -1,5 +1,14 @@
 NETFLIX-CLONE 
 
+👉🏼 https://netflix-clone-735c7.web.app/
+
+Tech used: 
+
+- React.js 
+- CSS 
+- API from https://www.themoviedb.org/ and youtube 
+- deployed using Firebase
+
 
 Purpose: I build this netflix clone after graduating from Le Wagon Tokyo to practice my skills and also learn a new skills especially React.js! 
 
