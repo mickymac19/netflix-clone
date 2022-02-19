@@ -10,7 +10,7 @@ Tech used:
 - deployed using Firebase
 
 
-Purpose: I build this netflix clone after graduating from Le Wagon Tokyo to practice my skills and also learn a new skills especially React.js! 
+Purpose: I build this netflix clone after graduating from Le Wagon Tokyo to practice my skills and also learn new skills especially React.js! 
 
 
 Features: 
